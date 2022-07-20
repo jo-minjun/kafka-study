@@ -4,7 +4,7 @@
 
 ## 이벤트
 
-![event](./img/command.png)
+![event](./img/event.png)
 
 - 이미 일어난 정보에 대한 메세지이다.
 - immutable 하다.
